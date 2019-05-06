@@ -9,3 +9,4 @@
 <img src="https://github.com/codingbubble/CustomViewStudyDemo/blob/master/screenshot/gif/CustomVolumControlBar.gif" width = "50%" alt = "CustomVolumControlBar.gif"/>
 
 test github
+test again
